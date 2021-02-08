@@ -12,6 +12,7 @@ import (
 	"gopkg.in/yaml.v2"
 )
 
+// Bookmark is a specific bookmark record read from a yaml file.
 type Bookmark struct {
 	Title    string `yaml:"title"`
 	Category string `yaml:"category"`
