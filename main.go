@@ -71,6 +71,14 @@ func main() {
 
 	sort.Strings(keys)
 
+	fmt.Fprint(f, "## Table of Contents\n")
+
+	for _, category := range keys {
+		fmt.Fprintf(f, "[%s](#%s)\n", category, strings.ReplaceAll(strings.ToLower(category), " ", "-"))
+	}
+
+	fmt.Fprint(f, "\n")
+
 	for _, category := range keys {
 		if _, err := fmt.Fprintf(f, "## %s\n", category); err != nil {
 			log.Print(err)
