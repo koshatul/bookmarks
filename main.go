@@ -75,7 +75,7 @@ func main() {
 	fmt.Fprint(f, "## Table of Contents\n\n")
 
 	for _, category := range keys {
-		fmt.Fprintf(f, "[%s](#%s)\n", category, strings.ReplaceAll(strings.ToLower(category), " ", "-"))
+		fmt.Fprintf(f, "- [%s](#%s)\n", category, strings.ReplaceAll(strings.ToLower(category), " ", "-"))
 	}
 
 	for _, category := range keys {

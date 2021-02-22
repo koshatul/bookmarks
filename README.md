@@ -2,13 +2,13 @@
 
 ## Table of Contents
 
-[Development Tools](#development-tools)
-[Elasticsearch](#elasticsearch)
-[GitHub Enterprise Actions](#github-enterprise-actions)
-[MQTT](#mqtt)
-[Personal Search Engine](#personal-search-engine)
-[Raspberry Pi](#raspberry-pi)
-[Real Estate](#real-estate)
+- [Development Tools](#development-tools)
+- [Elasticsearch](#elasticsearch)
+- [GitHub Enterprise Actions](#github-enterprise-actions)
+- [MQTT](#mqtt)
+- [Personal Search Engine](#personal-search-engine)
+- [Raspberry Pi](#raspberry-pi)
+- [Real Estate](#real-estate)
 
 ## Development Tools
 
