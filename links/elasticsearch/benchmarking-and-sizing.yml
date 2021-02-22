@@ -1,0 +1,4 @@
+title: "Benchmarking and sizing your Elasticsearch cluster for logs and metrics"
+category: "Elasticsearch"
+description: "Article about calculating the expected resources required for an elasticsearch cluster."
+link: https://www.elastic.co/blog/benchmarking-and-sizing-your-elasticsearch-cluster-for-logs-and-metrics
