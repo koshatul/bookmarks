@@ -9,6 +9,8 @@
 - [Personal Search Engine](#personal-search-engine)
 - [Raspberry Pi](#raspberry-pi)
 - [Real Estate](#real-estate)
+- [Server Admin](#server-admin)
+- [Terminology](#terminology)
 
 ## Development Tools
 
@@ -39,3 +41,12 @@
 ## Real Estate
 
 - [KoalaData](https://koaladata.com.au/): Your companion for the Australian real estate market.
+
+## Server Admin
+
+- [UPS Server on Raspberry Pi (or any Linux)](https://www.reddit.com/r/homelab/comments/5ssb5h/ups_server_on_raspberry_pi/): Excellent guide for setting up NUT on Linux for a network (Synology setup as well).
+
+## Terminology
+
+- [Fog computing](https://en.wikipedia.org/wiki/Fog_computing): Fog computing is an architecture that uses edge devices to carry out a substantial amount of computation, storage, and communication locally and routed over the Internet backbone.
+- [NTRIP](https://en.wikipedia.org/wiki/Networked_Transport_of_RTCM_via_Internet_Protocol): The Networked Transport of RTCM via Internet Protocol (NTRIP) is a protocol for streaming differential GPS (DGPS) data over the Internet in accordance with specification sold by RTCM.

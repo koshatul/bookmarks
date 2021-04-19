@@ -1,0 +1,4 @@
+title: "NTRIP"
+category: "Terminology"
+description: "The Networked Transport of RTCM via Internet Protocol (NTRIP) is a protocol for streaming differential GPS (DGPS) data over the Internet in accordance with specification sold by RTCM."
+link: https://en.wikipedia.org/wiki/Networked_Transport_of_RTCM_via_Internet_Protocol
