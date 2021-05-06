@@ -5,6 +5,7 @@
 - [Development Tools](#development-tools)
 - [Elasticsearch](#elasticsearch)
 - [GitHub Enterprise Actions](#github-enterprise-actions)
+- [Golang](#golang)
 - [MQTT](#mqtt)
 - [Personal Search Engine](#personal-search-engine)
 - [Raspberry Pi](#raspberry-pi)
@@ -25,6 +26,15 @@
 
 - [Deploying Self-Hosted Github Actions Runners with Docker](https://testdriven.io/blog/github-actions-docker/): detail how to deploy self-hosted Github Actions runners to DigitalOcean with Docker.
 
+## Golang
+
+- [Awesome Go](https://awesome-go.com/): A curated list of awesome Go frameworks, libraries and software. Inspired by awesome-python.
+- [Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments): This page collects common comments made during reviews of Go code, so that a single detailed explanation can be referred to by shorthands. This is a laundry list of common mistakes, not a comprehensive style guide.
+- [Effective Go](https://golang.org/doc/effective_go): This document gives tips for writing clear, idiomatic Go code. It augments the language specification, the Tour of Go, and How to Write Go Code, all of which you should read first.
+- [Go Programming Language Specification](https://golang.org/ref/spec): This is a reference manual for the Go programming language. For more information and other documents, see golang.org.
+- [Golang Wiki](https://github.com/golang/go/wiki): Welcome to the Go wiki, a collection of information about the Go Programming Language.
+- [Organizing Go code](https://blog.golang.org/organizing-go-code): Go code is organized differently to that of other languages. This post discusses how to name and package the elements of your Go program to best serve its users.
+
 ## MQTT
 
 - [mqtt.org/Servers/Brokers](https://github.com/mqtt/mqtt.org/wiki/servers): List of servers/brokers for MQTT.
@@ -44,6 +54,8 @@
 
 ## Server Admin
 
+- [About upcoming limits on trusted certificates](https://support.apple.com/en-us/HT211025): TLS server certificates issued on or after September 1, 2020 00:00 GMT/UTC must not have a validity period greater than 398 days.
+- [Requirements for trusted certificates in iOS 13 and macOS 10.15](https://support.apple.com/en-au/HT210176): TLS server certificates must have a validity period of 825 days or fewer (as expressed in the NotBefore and NotAfter fields of the certificate).
 - [UPS Server on Raspberry Pi (or any Linux)](https://www.reddit.com/r/homelab/comments/5ssb5h/ups_server_on_raspberry_pi/): Excellent guide for setting up NUT on Linux for a network (Synology setup as well).
 
 ## Terminology

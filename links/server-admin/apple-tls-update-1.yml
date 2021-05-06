@@ -1,0 +1,4 @@
+title: "About upcoming limits on trusted certificates"
+category: "Server Admin"
+description: "TLS server certificates issued on or after September 1, 2020 00:00 GMT/UTC must not have a validity period greater than 398 days."
+link: https://support.apple.com/en-us/HT211025

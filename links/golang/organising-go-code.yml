@@ -1,0 +1,4 @@
+title: "Organizing Go code"
+category: "Golang"
+description: "Go code is organized differently to that of other languages. This post discusses how to name and package the elements of your Go program to best serve its users."
+link: https://blog.golang.org/organizing-go-code

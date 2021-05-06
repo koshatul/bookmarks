@@ -1,0 +1,4 @@
+title: "Effective Go"
+category: "Golang"
+description: "This document gives tips for writing clear, idiomatic Go code. It augments the language specification, the Tour of Go, and How to Write Go Code, all of which you should read first."
+link: https://golang.org/doc/effective_go
