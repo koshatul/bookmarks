@@ -4,14 +4,17 @@
 
 - [Development Tools](#development-tools)
 - [Elasticsearch](#elasticsearch)
+- [Firewall](#firewall)
 - [GitHub Enterprise Actions](#github-enterprise-actions)
 - [Golang](#golang)
 - [MQTT](#mqtt)
+- [Mail](#mail)
 - [Personal Search Engine](#personal-search-engine)
 - [Raspberry Pi](#raspberry-pi)
 - [Real Estate](#real-estate)
 - [Server Admin](#server-admin)
 - [Terminology](#terminology)
+- [Virtualisation](#virtualisation)
 
 ## Development Tools
 
@@ -21,6 +24,11 @@
 ## Elasticsearch
 
 - [Benchmarking and sizing your Elasticsearch cluster for logs and metrics](https://www.elastic.co/blog/benchmarking-and-sizing-your-elasticsearch-cluster-for-logs-and-metrics): Article about calculating the expected resources required for an elasticsearch cluster.
+
+## Firewall
+
+- [OPNsense](https://opnsense.org/): From Virtual Private Networking to Intrusion Detection, Best in class, FREE Open Source Project.
+- [Protectli](https://protectli.com/): The Protectli Vault helps thousands of network professionals and self-professed geeks like us to keep our networks safe.
 
 ## GitHub Enterprise Actions
 
@@ -34,10 +42,16 @@
 - [Go Programming Language Specification](https://golang.org/ref/spec): This is a reference manual for the Go programming language. For more information and other documents, see golang.org.
 - [Golang Wiki](https://github.com/golang/go/wiki): Welcome to the Go wiki, a collection of information about the Go Programming Language.
 - [Organizing Go code](https://blog.golang.org/organizing-go-code): Go code is organized differently to that of other languages. This post discusses how to name and package the elements of your Go program to best serve its users.
+- [import "context"](https://steveazz.xyz/blog/import-context/): What can you do when you import "context" inside of your go project?
 
 ## MQTT
 
 - [mqtt.org/Servers/Brokers](https://github.com/mqtt/mqtt.org/wiki/servers): List of servers/brokers for MQTT.
+
+## Mail
+
+- [ARC](https://en.wikipedia.org/wiki/Authenticated_Received_Chain): Wikipedia: Authenticated Received Chain
+- [SRS](https://en.wikipedia.org/wiki/Sender_Rewriting_Scheme): Wikipedia: Sender Rewriting Scheme
 
 ## Personal Search Engine
 
@@ -57,8 +71,14 @@
 - [About upcoming limits on trusted certificates](https://support.apple.com/en-us/HT211025): TLS server certificates issued on or after September 1, 2020 00:00 GMT/UTC must not have a validity period greater than 398 days.
 - [Requirements for trusted certificates in iOS 13 and macOS 10.15](https://support.apple.com/en-au/HT210176): TLS server certificates must have a validity period of 825 days or fewer (as expressed in the NotBefore and NotAfter fields of the certificate).
 - [UPS Server on Raspberry Pi (or any Linux)](https://www.reddit.com/r/homelab/comments/5ssb5h/ups_server_on_raspberry_pi/): Excellent guide for setting up NUT on Linux for a network (Synology setup as well).
+- [awesome-baraemetal](https://github.com/alexellis/awesome-baremetal): Bare-metal is awesome. Let's share our favourite tools.
+- [tinkerbell](https://docs.tinkerbell.org/): Tinkerbell is an open-source, bare metal provisioning engine, built by the team at Equinix Metal.
 
 ## Terminology
 
 - [Fog computing](https://en.wikipedia.org/wiki/Fog_computing): Fog computing is an architecture that uses edge devices to carry out a substantial amount of computation, storage, and communication locally and routed over the Internet backbone.
 - [NTRIP](https://en.wikipedia.org/wiki/Networked_Transport_of_RTCM_via_Internet_Protocol): The Networked Transport of RTCM via Internet Protocol (NTRIP) is a protocol for streaming differential GPS (DGPS) data over the Internet in accordance with specification sold by RTCM.
+
+## Virtualisation
+
+- [XCP-ng](https://xcp-ng.org/): Based on XenServer, XCP-ng is the result of massive cooperation between individuals and companies, to deliver a product without limits. No restrictions on features and every bit available on GitHub!.
